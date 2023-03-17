@@ -1,5 +1,5 @@
 # Auto Commit and Push Shell Script
-This shell script is designed to automatically add, commit, and push changes to a Git repository. It can be useful for automating the process of committing and pushing changes to a remote repository without having to remember the exact commands every time.
+This shell script is designed to automatically add, commit, and push changes to a Git repository. It can be useful for automating the process of committing and pushing changes to a remote repository without having to write the exact commands every time.
 
 # Prerequisites
 Git installed on the machine
