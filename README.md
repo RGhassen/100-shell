@@ -7,7 +7,7 @@ Access to the Git repository
 # Usage
 clone 100-shell repo.
 when you need to push use this command:
-# . /PATH_OF_THE_Directory/100-shell/git
+# . /PATH_OF_THE_Directory/100-shell/git + {your commit } (your commit message should not containe spaces)
 Note
 It is recommended to test the script on a test repository before running it on a live repository.
 
